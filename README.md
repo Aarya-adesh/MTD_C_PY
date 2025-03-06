@@ -20,3 +20,5 @@ $ git clone https://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@github.com/Aarya-ad
 $ git add .
 
 $ git commit -m "notes file of the MTD training is added 
+
+$ git push origin main
