@@ -9,7 +9,9 @@ git status
 git clone https://github.com/neelmyna/vvce_mar25
 
 git pull origin main
-//command to download the updated repo from the server to the local machine
+//commans to download the updated repo from the server to the local machine
+
+
 
 $ git config --global user.name "aarya-adesh"
 
@@ -22,3 +24,5 @@ $ git add .
 $ git commit -m "notes file of the MTD training is added 
 
 $ git push origin main
+
+
